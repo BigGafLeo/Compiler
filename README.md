@@ -14,6 +14,7 @@ This repository contains the implementation of a compiler. The project includes 
   - [text.txt](#texttxt)
 - [Memory Management](#memory-management)
 - [License](#license)
+- [Instructions](#instructions)
 
 ## Contents
 
@@ -84,7 +85,7 @@ The memory management in this compiler is handled by the `Memory.py` module. It 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Istructions
+## Instructions
 
 For detailed documentation of the language, please refer to the [language_desc.pdf](language_desc.pdf) file.
 
