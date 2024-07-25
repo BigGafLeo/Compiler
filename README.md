@@ -83,3 +83,8 @@ The memory management in this compiler is handled by the `Memory.py` module. It 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Istructions
+
+For detailed documentation of the language, please refer to the [language_desc.pdf](language_desc.pdf) file.
+
